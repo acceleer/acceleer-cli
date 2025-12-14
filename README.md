@@ -3,7 +3,7 @@ cli for acceleer
 
 ## supported systems:
 
-✅ Windows
+✅ Windows  
 ⬜ Linux (Coming later)
 
 ## Usage
